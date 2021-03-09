@@ -1,0 +1,16 @@
+2021-03-08T16:30:31: PM2 log: ===============================================================================
+2021-03-08T16:30:32: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-03-08T16:30:32: PM2 log: Time                 : Mon Mar 08 2021 16:30:32 GMT-0300 (Brasilia Standard Time)
+2021-03-08T16:30:32: PM2 log: PM2 version          : 4.5.5
+2021-03-08T16:30:32: PM2 log: Node.js version      : 14.15.4
+2021-03-08T16:30:32: PM2 log: Current arch         : arm
+2021-03-08T16:30:32: PM2 log: PM2 home             : /data/data/com.termux/files/home/.pm2
+2021-03-08T16:30:32: PM2 log: PM2 PID file         : /data/data/com.termux/files/home/.pm2/pm2.pid
+2021-03-08T16:30:32: PM2 log: RPC socket file      : /data/data/com.termux/files/home/.pm2/rpc.sock
+2021-03-08T16:30:32: PM2 log: BUS socket file      : /data/data/com.termux/files/home/.pm2/pub.sock
+2021-03-08T16:30:32: PM2 log: Application log path : /data/data/com.termux/files/home/.pm2/logs
+2021-03-08T16:30:32: PM2 log: Worker Interval      : 30000
+2021-03-08T16:30:32: PM2 log: Process dump file    : /data/data/com.termux/files/home/.pm2/dump.pm2
+2021-03-08T16:30:32: PM2 log: Concurrent actions   : 2
+2021-03-08T16:30:32: PM2 log: SIGTERM timeout      : 1600
+2021-03-08T16:30:32: PM2 log: ===============================================================================
